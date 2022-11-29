@@ -23,7 +23,7 @@ Usage of ML algorithms:
 **Importing libraries**:
 - Pandas, Numpy, Seaborn, Scikit, Matplot
 
-**Download dataset- ipl.csv**
+**Download dataset- IPL.csv**
 
 **Exploring Datasets**:
 
