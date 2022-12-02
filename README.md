@@ -7,6 +7,20 @@ This project specifically concentrates on
 enactment and measuring the difference between the models to foretell the
 captivating teams of an IPL match.
 ```
+
+## Usage
+
+```
+Data is accessed by the computer programs developed using Machine learning to
+build models. The algorithm first analyses the data to create a model, specifically for
+understanding the patterns or trends. For creating the mining model, the model is
+optimised by selecting parameters and iterating. To extract actionable patterns and
+detailed statistics, the parameters are then fed into the dataset. This work focuses on
+finding meaningful information about the IPL Teams by using the functions of the R
+Package
+
+```
+
 ## Features
 
 Usage of ML algorithms: 
@@ -62,19 +76,6 @@ Usage of ML algorithms:
 
 • Model trained on the given dataset
 
-
-## Usage
-
-```
-Data is accessed by the computer programs developed using Machine learning to
-build models. The algorithm first analyses the data to create a model, specifically for
-understanding the patterns or trends. For creating the mining model, the model is
-optimised by selecting parameters and iterating. To extract actionable patterns and
-detailed statistics, the parameters are then fed into the dataset. This work focuses on
-finding meaningful information about the IPL Teams by using the functions of the R
-Package
-
-```
 
 
 ## Screenshots
